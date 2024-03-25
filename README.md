@@ -23,7 +23,7 @@ flowchart LR
 
 ## Result
 ### How Even and Diverse Is The Bacterial Community in Each Individual?
-![hah](/.assets/porto_alpha.svg)
+!(/.assets/porto_alpha.svg)
 
 ### How Does The Bacterial Community Differ from One Another?
 (beta div)
