@@ -23,7 +23,7 @@ flowchart LR
 
 ## Result
 ### How Even and Diverse Is The Bacterial Community in Each Individual?
-Based on alpha diversity analysis, there is a significant difference (p<0.05) between the two groups, with group A having a higher Shannon index in comparison to group B. This indicates that the bacterial community in individuals within group A is **more** even and diverse compared to group B.
+Based on alpha diversity analysis, there is a significant difference (p<0.05) between the two groups, with group A having a higher Shannon index in comparison to group B. This indicates that the bacterial community in individuals within group A is **more** even and diverse compared to group B.\
 ![plot](/.assets/porto_alpha.svg)
 
 ### How Does The Bacterial Community Differ from One Another?
